@@ -18,8 +18,8 @@ email: belichjd@miamioh.edu
 description: > # this means to ignore newlines until "baseurl:"
   How to fix inequality in the game industry which consists
   predominantly of white males, and caters to them almost exclusively.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jerrytron.github.io/interacting-with-theory" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/interacting-with-theory" # the subpath of your site, e.g. /blog
+url: "https://jerrytron.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: j3rrytron
 github_username:  jerrytron
 
