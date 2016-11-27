@@ -1,4 +1,4 @@
 ---
-layout: project
+layout: page
 title: Contagion Theory
 ---
