@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credits
-permalink: /credits/
+order: 4
 ---
 
 Credits go here.
