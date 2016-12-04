@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Cognitive Dissonance Theory
+sidebar:
+    nav: "theories"
 ---
 
 A game developer worked on a game that has been identified as sexist in its portrayal of woman, but the individual believes themselves to have a lot of respect for women. They may convince themselves that it isn’t sexist, it’s just fun, and the offended parties are being over-sensitive.

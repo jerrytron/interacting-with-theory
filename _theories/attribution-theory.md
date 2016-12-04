@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Attribution Theory
 header:
     teaser: /assets/images/attribution-theory.jpg

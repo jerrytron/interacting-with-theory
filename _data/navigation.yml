@@ -10,10 +10,20 @@ main:
   - title: "Credits"
     url: /credits/
 
-#theories:
-#  - title: "Theories"
-#  children:
-#    - title: "Attribution Theory"
-#      url: /theories/attribution-theory/
-#    - title: "Cognitive Dissonance Theory"
-#      url: /theories/cognitive-dissonance-theory/
+theories:
+  - title: "Theories"
+    children:
+    - title: "Attribution Theory"
+      url: /theories/attribution-theory/
+    - title: "Cognitive Dissonance Theory"
+      url: /theories/cognitive-dissonance-theory/
+    - title: "Contagion Theory"
+      url: /theories/contagion-theory/
+    - title: "Elaboration Model"
+      url: /theories/elaboration-model/
+    - title: "Expectancy Model"
+      url: /theories/expectancy-model/
+    - title: "Social Cognitive Theory"
+      url: /theories/social-cognitive-theory/
+    - title: "Social Identity Theory"
+      url: /theories/social-identity-theory/
