@@ -1,11 +1,10 @@
 ---
 title: Theories
+layout: archive
 ---
 
-{% for theory in site.theories %}
-## [{{theory.title}}]({{ site.url }}{{ theory.url }})
-![{{ theory.title }}]({{ site.url }}{{ site.image_path }}{{ theory.url | split:"/" | last }}{{ site.image_ext }}){: .align-center}
-
-
-Here is a theory. {{ site.url }}{{ site.image_path }}{{ theory.url | split:"/" | last }}{{ site.image_ext }}
-{% endfor %}
+<div class="grid__wrapper">
+    {% for post in site.theories %}
+        {% include archive-single.html type="grid" %}
+    {% endfor %}
+</div>

@@ -4,11 +4,12 @@ layout: splash
 classes:
     - landing
 header:
-    image: /assets/images/home-banner.png
-header:
-    overlay_color: "#5e616c"
+    overlay_color: "#333"
     overlay_image: /assets/images/home-banner.png
+    overlay_filter: rgba(0, 0, 0, 0.0)
     caption:
+    cta_label: "About Wicked Problems"
+    cta_url: "https://en.wikipedia.org/wiki/Wicked_problem"
 excerpt: 'Theory is a way of exploring and describing how things are.  This site will explore various theories in the context of a <a href="/problem/">wicked problem</a>.<br />'
 feature_row:
   - image_path: /assets/images/feature-xd.png
