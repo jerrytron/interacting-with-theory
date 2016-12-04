@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Theories
-order: 3
 ---
 
 {% for theory in site.theories %}

@@ -13,27 +13,197 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en"
 title: Interacting with Theory
+title_separator: "-"
+name: "Jerry Belich"
 email: belichjd@miamioh.edu
 description: > # this means to ignore newlines until "baseurl:"
   How to fix inequality in the game industry which consists
   predominantly of white males, and caters to them almost exclusively.
 baseurl: "/interacting-with-theory" # the subpath of your site, e.g. /blog
 url: "https://jerrytron.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: jerrytron/interacting-with-theory
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs: false # true, false (default)
+words_per_minute: 200
+
+# SEO Related
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
+
 twitter_username: j3rrytron
-github_username:  jerrytron
+github_username: jerrytron
 
-# Build settings
-markdown: kramdown
-theme: #minima
-gems:
-  - jekyll-feed
+# Social Sharing
+twitter:
+  username: j3rrytron
+og_image: # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider: false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id:
+
+# Site Author
+author:
+  name: "Jerry Belich"
+  avatar: "/assets/images/bio-photo.png"
+  bio: "Professor of Game Design, and MFA student in Experience Design."
+  location: "Miami University"
+  email: belichjd@miamioh.edu
+  uri:
+  bitbucket: jerrytron
+  github: jerrytron
+  google_plus:
+  linkedin:
+  stackoverflow: # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam:
+  twitter: j3rrytron
+  youtube:
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
 exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
-  - Gemfile.lock
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
 sass:
-  style: expanded
+  sass_dir: _sass
+  style: expanded # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+#timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false # true
+      share: true
+      related: true
 
 collections:
   theories:

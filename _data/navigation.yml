@@ -1,0 +1,19 @@
+
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "The Problem"
+    url: /problem/
+  - title: "Theories"
+    url: /theories/
+  - title: "Credits"
+    url: /credits/
+
+#theories:
+#  - title: "Theories"
+#  children:
+#    - title: "Attribution Theory"
+#      url: /theories/attribution-theory/
+#    - title: "Cognitive Dissonance Theory"
+#      url: /theories/cognitive-dissonance-theory/

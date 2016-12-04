@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Problem
-order: 2
 ---
 
 #### _How to fix inequality in the game industry which consists predominantly of white males, and caters to them almost exclusively._
