@@ -39,3 +39,7 @@ collections:
   theories:
     output: true
     permalink: /theories/:path/
+
+# Variables
+image_path: images
+image_ext: .jpg
