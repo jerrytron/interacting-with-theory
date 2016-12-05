@@ -1,6 +1,9 @@
 ---
 title: Theories
 layout: archive
+header:
+    overlay_color: "#333"
+    overlay_image: /assets/images/theories-banner.png
 ---
 
 <div class="grid__wrapper">
