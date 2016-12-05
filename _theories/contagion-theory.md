@@ -11,10 +11,15 @@ header:
 sidebar:
     nav: "theories"
 key_people:
-  - name: ""
-    bio: ""
+  - name: "Ronald Burt"
+    bio: "A professor of Sociology and Strategy at the University of Chicago Booth School of Business."
+  - name: "Noshir Contractor"
+    bio: "A professor of Behavioral Science at Northwestern University."
+  - name: "Eric Eisenberg"
+    bio: "A professor and dean at University of South Florida."
 citations:
-  - text: "Name, Name. _Title_ City, S.T.: Publisher, Year."
+  - text: 'Burt, Ronald S. _"Structural Holes\: The Social Structure of Competition,"_ Cambridge, MA: Harvard University Press, 1992.'
+  - text: 'Contractor, Noshir S., and Eric M. Eisenberg. _"Communication networks and new media in organizations."_ Organizations and communication technology 143 (1990): 172.'
 ---
 
 ![contagion theory](/assets/images/contagion-theory.jpg){: .align-right}

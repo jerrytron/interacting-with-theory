@@ -11,10 +11,12 @@ header:
 sidebar:
     nav: "theories"
 key_people:
-  - name: ""
-    bio: ""
+  - name: "Henri Tajfel"
+    bio: "Was a British social psychologist at the University of Bristol."
+  - name: "John Turner"
+    bio: "Was a British social psychologist at the University of Bristol."
 citations:
-  - text: "Name, Name. _Title_ City, S.T.: Publisher, Year."
+  - text: "Tajfel, Henri and John C Turner. _“The Social Identity Theory of Intergroup Behavior.”_ (2004):"
 ---
 
 ![social identity theory](/assets/images/social-identity-theory.jpg){: .align-right}

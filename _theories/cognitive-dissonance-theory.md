@@ -11,10 +11,10 @@ header:
 sidebar:
     nav: "theories"
 key_people:
-  - name: ""
-    bio: ""
+  - name: "Leon Festinger"
+    bio: "A social psychologist who taught at University of Michigan, University of Minnesota, and Stanford University."
 citations:
-  - text: "Name, Name. _Title_ City, S.T.: Publisher, Year."
+  - text: "Festinger, Leon. _A Theory of Cognitive Dissonance. Stanford,_ CA: Stanford university press, 1962."
 ---
 
 ![cognitive dissonance theory](/assets/images/cognitive-dissonance-theory.jpg){: .align-right}

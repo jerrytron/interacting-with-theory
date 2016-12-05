@@ -21,12 +21,12 @@ key_people:
   - name: "Fritz Heider"
     bio: "An Austrian psychologist whose work was related to the Gestalt school."
   - name: "Harold Kelley"
-    bio: "An American social psychologist and professor of psychology at the University of California, Los Angeles."
+    bio: "A social psychologist and professor of psychology at the University of California, Los Angeles."
   - name: "Bernard Weiner"
-    bio: "An American social psychologist and professor of psychology at the University of California, Los Angeles."
+    bio: "A social psychologist and professor of psychology at the University of California, Los Angeles."
 citations:
-  - text: "Weiner, Bernard. _Achievement Motivation and Attribution Theory._ Morristown, N.J.: General Learning Press, 1974."
-  - text: "Weiner, Bernard. _An Attributional Theory of Motivation and Emotion._ New York: Springer-Verlag, 1986."
+  - text: "Weiner, Bernard. _An Attributional Theory of Motivation and Emotion._ New York, NY: Springer-Verlag, 1986."
+  - text: "Weiner, Bernard. _Achievement Motivation and Attribution Theory._ Morristown, NJ: General Learning Press, 1974."
 ---
 
 <!--{% include feature_row id="theory_intro" type="right" %}-->

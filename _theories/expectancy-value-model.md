@@ -11,10 +11,10 @@ header:
 sidebar:
     nav: "theories"
 key_people:
-  - name: ""
-    bio: ""
+  - name: "Martin Fishbein"
+    bio: "Was social psychologist and professor at the University of Illinois."
 citations:
-  - text: "Name, Name. _Title_ City, S.T.: Publisher, Year."
+  - text: "Ajzen, Icek and Martin Fishbein. _“Attitude-Behavior Relations: A Theoretical Analysis and Review of Empirical Research.”_ Psychological Bulletin 84, no. 5 (1977): 888–918."
 ---
 
 ![expectancy model](/assets/images/expectancy-value-model.jpg){: .align-right}

@@ -11,10 +11,12 @@ header:
 sidebar:
     nav: "theories"
 key_people:
-  - name: ""
-    bio: ""
+  - name: "Richard Petty"
+    bio: "The Distinguished University Professor of Psychology at The Ohio State University."
+  - name: "John Cacioppo"
+    bio: "The Tiffany and Margaret Blake Distinguished Service Professor at the University of Chicago."
 citations:
-  - text: "Name, Name. _Title_ City, S.T.: Publisher, Year."
+  - text: "Cacioppo, John T. and Richard E. Petty. _“Effects of Message Repetition and Position on Cognitive Response, Recall, and Persuasion.”_ Journal of Personality & Social Psychology 37 (1979): 97–109."
 ---
 
 ![elaboration likelihood model](/assets/images/elaboration-likelihood-model.jpg){: .align-right}

@@ -11,10 +11,17 @@ header:
 sidebar:
     nav: "theories"
 key_people:
-  - name: ""
-    bio: ""
+  - name: "Neal Miller"
+    bio: "Was an experimental psychologist at Yale University."
+  - name: "John Dollard"
+    bio: "Was an American psychologist and social scientist who taught anthropology at Yale University."
+  - name: "Albert Bandura"
+    bio: "Is the David Starr Jordan Professor Emeritus of Social Science in Psychology at Stanford University."
+  - name: "Richard Walters"
+    bio: "A grad student of Albert Bandura that developed research with him."
 citations:
-  - text: "Name, Name. _Title_ City, S.T.: Publisher, Year."
+  - text: "Bandura, Albert and Richard H Walters. _Social Learning and Personality Development._ New York, NY: JSTOR, 1963."
+  - text: "Miller, Neal Elgar and John Dollard. “Social Learning and Imitation.” (1941):"
 ---
 
 ![social cognitive theory](/assets/images/social-cognitive-theory.jpg){: .align-right}
