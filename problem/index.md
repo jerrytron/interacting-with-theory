@@ -5,15 +5,23 @@ header:
     overlay_image: /assets/images/problem-banner.png
 ---
 
-### _How to fix inequality in the game industry which consists predominantly of white males, and caters to them almost exclusively._
+## How to fix inequality in the game industry which consists predominantly of white males, and caters to them almost exclusively.
+It is important that we establish the complexity and stakes of this problem before trying to dissect,
+or 'solve' it. Inequality is a social problem that has existed for as long as humans have gathered in
+groups, and it will continue long after anyone reading this is dead, until humans themselves are gone.
+
+That does not, however, mean we don't try to improve our situation. Prolong life and the quality of it.
+In particular, the field of game design is of personal interest to me and my career, and so the
+inequalities felt there touch my life in many ways. By gaining a deeper understanding of the problem
+I hope to be better equipped to be a positive force toward improving it. So, how is this problem _wicked_?
 
 **1. There is no definite formulation of a wicked problem.**  
-Inequality is always a difficult topic to nail down. Inequal from whose perspective? We can constantly try to rebalance the scales, but the fact is that the scales readings will be different to anyone who looks.
+Inequality is always a difficult topic to nail down. Unequal from whose perspective? We can constantly try to rebalance the scales, but the fact is that the scales readings will be different to anyone who looks.
 
 **2. Wicked problems have no stopping rules.**  
-There is no _equal_. When we define a domain, like the game industry, as being inequal, it is because the problem has gotten so bad that we can't help but take notice. The closer we get to equality, the harder it will be to know when to stop.
+There is no _equal_. When we define a domain, like the game industry, as being unequal, it is because the problem has gotten so bad that we can't help but take notice. The closer we get to equality, the harder it will be to know when to stop.
 
-**3. Solutions to wicked problems are not true-or-false, but better or worse.**  
+**3. Solutions to wicked problems are not true-or-false, but good-or-bad.**  
 Expanding from the above, the effort required to make what one stakeholder believes to be equitable increases exponentially, as the closer it gets, the harder it is for various stakeholders to agree on where the stopping point is.
 
 **4. There is no immediate and no ultimate test of a solution to a wicked problem.**  
@@ -36,3 +44,6 @@ If the problem to tackle is to broaden the type of content game studios produce,
 
 **10. [With wicked problems,] the planner has no right to be wrong.**  
 People get hurt, and have gotten hurt while trying to improve the climate of inequality. Rape threats, death threats, bomb threats, and more simply for speaking up. That doesn't mean the approaches were wrong, but goes to show just how high the stakes are, and why we must not be wrong.
+
+{: .notice--primary}
+Horst, W. J. Rittel and Melvin M. Webber. _“Dilemmas in a General Theory of Planning.”_ Policy Sciences 2 (1973): 155.
