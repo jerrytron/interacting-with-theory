@@ -16,9 +16,9 @@
 locale: "en"
 title: Interacting with Theory
 title_separator: "-"
-name: "Jerry Belich"
+name: &name "Jerry Belich"
 email: belichjd@miamioh.edu
-description: > # this means to ignore newlines until "baseurl:"
+description: &description > # this means to ignore newlines until "baseurl:"
   How to fix inequality in the game industry which consists
   predominantly of white males, and caters to them almost exclusively.
 baseurl: "/interacting-with-theory" # the subpath of your site, e.g. /blog
@@ -34,8 +34,8 @@ bing_site_verification:
 alexa_site_verification:
 yandex_site_verification:
 
-twitter_username: j3rrytron
-github_username: jerrytron
+twitter_username: &twitter j3rrytron
+github_username: &github jerrytron
 
 # Social Sharing
 twitter:
@@ -60,15 +60,15 @@ author:
   avatar: "/assets/images/bio-photo.png"
   bio: "Professor of Game Design, and MFA student in Experience Design."
   location: "Miami University"
-  email: belichjd@miamioh.edu
-  uri:
+  email: "belichjd@miamioh.edu"
+  uri: "http://jerrytron.com"
   bitbucket: jerrytron
-  github: jerrytron
+  github: *github
   google_plus:
   linkedin:
   stackoverflow: # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam:
-  twitter: j3rrytron
+  twitter: *twitter
   youtube:
 
 # Reading Files
@@ -83,6 +83,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - /.vscode
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
@@ -101,6 +102,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /external_resources
 keep_files:
   - .git
   - .svn
@@ -128,7 +130,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: expanded # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting

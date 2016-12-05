@@ -31,7 +31,7 @@ feature_row:
     url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Keep track of my work &nbsp; [<i class="fa fa-twitter"></i> @j3rrytron](https://twitter.com/j3rrytron){: .btn .btn--twitter}'
+  - excerpt: 'Follow me and my work &nbsp;[<i class="fa fa-twitter"></i> @j3rrytron](https://twitter.com/j3rrytron){: .btn .btn--twitter} &nbsp; [<i class="fa fa-external-link-square"></i> jerrytron.com](http://jerrytron.com){: .btn .btn--success}'
 ---
 
 {% include feature_row id="intro" type="center" %}
