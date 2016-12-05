@@ -1,7 +1,7 @@
 ---
 title: Contagion Theory
 subtitle: FROM MEDICINE & COMMUNICATIONS
-excerpt: "Contact is provided by communication networks in contagion theories. These communication networks serve as a mechanism that exposes people, groups, and organizations to information, attitudinal messages and the behaviors of others."
+excerpt: "Contact is provided by communication networks in contagion theories. These communication networks serve as a mechanism that exposes people to information."
 header:
     excerpt: false
     overlay_color: "#333"

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Dissonance Theory
 subtitle: FROM MARKETING & PSYCHOLOGY
-excerpt: "Cognitive dissonance is a communication theory adopted from social psychology. The title gives the concept: cognitive is thinking or the mind; and dissonance is inconsistency or conflict. Cognitive dissonance is the psychological conflict from holding two or more incompatible beliefs simultaneously."
+excerpt: "Cognitive dissonance is a communication theory adopted from social psychology. Cognitive is thinking or the mind; and dissonance is inconsistency or conflict."
 header:
     excerpt: false
     overlay_color: "#333"

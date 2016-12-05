@@ -1,7 +1,7 @@
 ---
 title: Elaboration Likelihood Model
 subtitle: FROM COMMUNICATIONS & RELATIONS
-excerpt: "The ELM is based on the idea that attitudes are important because attitudes guide decisions and other behaviors. While attitudes can result from a number of things, persuasion is a primary source."
+excerpt: "The ELM is based on the idea that attitudes are important because attitudes guide decisions and other behaviors."
 header:
     excerpt: false
     overlay_color: "#333"
