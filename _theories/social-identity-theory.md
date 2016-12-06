@@ -16,10 +16,10 @@ key_people:
   - name: "John Turner"
     bio: "Was a British social psychologist at the University of Bristol."
 citations:
-  - text: "Tajfel, Henri and John C Turner. _“The Social Identity Theory of Intergroup Behavior.”_ (2004):"
+  - text: 'Tajfel, Henri and John C Turner. "The Social Identity Theory of Intergroup Behavior." (2004):'
 ---
 
-![social identity theory](/assets/images/social-identity-theory.jpg){: .align-right}
+![social identity theory]({{ site.baseurl }}/assets/images/social-identity-theory.jpg){: .align-right}
 In the Social Identity Theory, a person has not one, “personal self”, but rather several selves that correspond to widening circles of group membership. Different social contexts may trigger an individual to think, feel and act on basis of his personal, family or national “level of self”.
 
 ## Game Industry Inequality

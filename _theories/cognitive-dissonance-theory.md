@@ -17,7 +17,7 @@ citations:
   - text: "Festinger, Leon. _A Theory of Cognitive Dissonance. Stanford,_ CA: Stanford university press, 1962."
 ---
 
-![cognitive dissonance theory](/assets/images/cognitive-dissonance-theory.jpg){: .align-right}
+![cognitive dissonance theory]({{ site.baseurl }}/assets/images/cognitive-dissonance-theory.jpg){: .align-right}
 Cognitive dissonance is a communication theory adopted from social psychology. The title gives the concept: cognitive is thinking or the mind; and dissonance is inconsistency or conflict. Cognitive dissonance is the psychological conflict from holding two or more incompatible beliefs simultaneously.
 
 ## Game Industry Inequality

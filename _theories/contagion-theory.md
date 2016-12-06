@@ -18,11 +18,11 @@ key_people:
   - name: "Eric Eisenberg"
     bio: "A professor and dean at University of South Florida."
 citations:
-  - text: 'Burt, Ronald S. _"Structural Holes\: The Social Structure of Competition,"_ Cambridge, MA: Harvard University Press, 1992.'
-  - text: 'Contractor, Noshir S., and Eric M. Eisenberg. _"Communication networks and new media in organizations."_ Organizations and communication technology 143 (1990): 172.'
+  - text: 'Burt, Ronald S. "The Social Structure of Competition," In _Structural Holes_, Cambridge, MA: Harvard University Press, 1992.'
+  - text: 'Contractor, Noshir S and Eric M Eisenberg. "Communication Networks and New Media in Organizations." _Organizations and communication technology_ 143 (1990): 172.'
 ---
 
-![contagion theory](/assets/images/contagion-theory.jpg){: .align-right}
+![contagion theory]({{ site.baseurl }}/assets/images/contagion-theory.jpg){: .align-right}
 Contact is provided by communication networks in contagion theories. These communication networks serve as a mechanism that exposes people, groups, and organizations to information, attitudinal messages and the behaviors of others.
 
 ## Game Industry Inequality

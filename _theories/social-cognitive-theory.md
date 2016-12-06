@@ -21,10 +21,10 @@ key_people:
     bio: "A grad student of Albert Bandura that developed research with him."
 citations:
   - text: "Bandura, Albert and Richard H Walters. _Social Learning and Personality Development._ New York, NY: JSTOR, 1963."
-  - text: "Miller, Neal Elgar and John Dollard. “Social Learning and Imitation.” (1941):"
+  - text: 'Miller, Neal Elgar and John Dollard. "Social Learning and Imitation." (1941):'
 ---
 
-![social cognitive theory](/assets/images/social-cognitive-theory.jpg){: .align-right}
+![social cognitive theory]({{ site.baseurl }}/assets/images/social-cognitive-theory.jpg){: .align-right}
 The social cognitive theory explains how people acquire and maintain certain behavioral patterns, while also providing the basis for intervention strategies. Evaluating behavioral change depends on the factors environment, people and behavior. SCT provides a framework for designing, implementing and evaluating programs.
 
 ## Game Industry Inequality

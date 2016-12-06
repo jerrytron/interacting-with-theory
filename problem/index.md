@@ -46,4 +46,4 @@ If the problem to tackle is to broaden the type of content game studios produce,
 People get hurt, and have gotten hurt while trying to improve the climate of inequality. Rape threats, death threats, bomb threats, and more simply for speaking up. That doesn't mean the approaches were wrong, but goes to show just how high the stakes are, and why we must not be wrong.
 
 {: .notice--primary}
-Horst, W. J. Rittel and Melvin M. Webber. _“Dilemmas in a General Theory of Planning.”_ Policy Sciences 2 (1973): 155.
+Horst, W. J. Rittel and Melvin M. Webber. “Dilemmas in a General Theory of Planning.” _Policy Sciences_ 2 (1973): 155.
