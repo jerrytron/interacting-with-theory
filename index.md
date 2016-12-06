@@ -10,7 +10,7 @@ header:
     caption:
     cta_label: "About Wicked Problems"
     cta_url: "https://en.wikipedia.org/wiki/Wicked_problem"
-excerpt: 'Theory is a way of exploring and describing how things are. This site will explore various theories in the context of a <a href="problem/">wicked problem</a>. It was created using web tech described below as an example for other students on free, accessible ways to create and host websites.<br />'
+excerpt: 'Theory is a way of exploring and describing how things are. This site will explore various theories in the contextz of a <a href="problem/">wicked problem</a>. It was created using web tech described below as an example for other students on free, accessible ways to create and host websites.<br />'
 #<br /><small>Repository</small><br />{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=jerrytron&repo=interacting-with-theory&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=jerrytron&repo=interacting-with-theory&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}
 feature_row:
   - image_path: /assets/images/feature-xd.png
