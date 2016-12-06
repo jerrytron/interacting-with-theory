@@ -32,7 +32,6 @@ citations:
 <!--{% include feature_row id="theory_intro" type="right" %}-->
 
 ![attribution theory]({{ site.baseurl }}/assets/images/attribution-theory.jpg){: .align-right}
-{{ site.baseurl }}/assets/images/attribution-theory.jpg
 Attribution theory is concerned with how individuals interpret events and how this relates to their thinking and behavior. Attribution theory assumes that people try to determine why people do what they do. A person seeking to understand why another person did something may attribute one or more causes to that behavior.
 
 ## Game Industry Inequality
