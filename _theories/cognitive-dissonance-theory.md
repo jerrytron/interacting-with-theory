@@ -18,10 +18,28 @@ citations:
 ---
 
 ![cognitive dissonance theory]({{ site.baseurl }}/assets/images/cognitive-dissonance-theory.jpg){: .align-right}
-Cognitive dissonance is a communication theory adopted from social psychology. The title gives the concept: cognitive is thinking or the mind; and dissonance is inconsistency or conflict. Cognitive dissonance is the psychological conflict from holding two or more incompatible beliefs simultaneously.
+Cognitive dissonance concerns inconsistencies or conflicts of the mind. All of
+us have held incompatible beliefs at one time or another, committing to a
+behavior that is inconsistent with the information we have available to us.
+Seatbelts were not always required when driving, so many of older generations
+still refuse to wear them despite a deluge of information concerning the dangers
+of not doing so, and how many lives have been lost as a result. My grandparents,
+for instance, died for this very reason. When new information is introduced we
+then try to reach equilibrium again and reduce dissonance. This could be through
+a change in behavior, or by seeking information that reinforces our existing view.
 
 ## Game Industry Inequality
-A game developer worked on a game that has been identified as sexist in its portrayal of woman, but the individual believes themselves to have a lot of respect for women. They may convince themselves that it isn’t sexist, it’s just fun, and the offended parties are being over-sensitive.
+As the inequality in gender or POC within the game industry is pointed out to
+people in decision making positions at game studios, one refutation is that
+they aren't avoiding hiring diverse people, but they simply aren't available.
+They points to statistics about how few non-white, non-male people are studying
+in the related hiring fields, and how few of them apply for jobs. They misuse
+existing facts in order to justify the status quo. Of course, the fact that
+the percentage of diverse candidates is certainly lower, that doesn't mean
+unavailable, so cannot excuse hiring none of them. It is also a question of
+effort, as typically people simply reach into their nearby network, who they
+already know, and so don't use the resources at their disposal to communicate
+open positions, or seek a wider pool in which to choose from.
 
 ## Key People
 {% for person in page.key_people %}

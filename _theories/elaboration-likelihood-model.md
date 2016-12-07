@@ -20,10 +20,33 @@ citations:
 ---
 
 ![elaboration likelihood model]({{ site.baseurl }}/assets/images/elaboration-likelihood-model.jpg){: .align-right}
-The ELM is based on the idea that attitudes are important because attitudes guide decisions and other behaviors. While attitudes can result from a number of things, persuasion is a primary source. The model features two routes of persuasive influence: central and peripheral.
+The elaboration likelihood model is concerned with the importance of our
+attitudes, which guide our decision making and other behaviors. These
+attitudes are affected by two different routes of persuasive influence, the
+central and peripheral. Why is one argument more persuasive than another?
+Does it contain enough information and reasoning, or on simple attributes of
+a situation? How we process argument meant to change our attitudes is vital
+to understanding how we should structure an argument in order to change minds.
+Motivated individuals are more likely to use their judgement and other mental
+faculties to process an argument and be persuaded if it is sound.
 
 ## Game Industry Inequality
-How do you get people to consider their involvement in a larger social issue? How do you persuade them to reconsider (or consider at all) their position or place in a larger system and potentially change? In the game industry, even convincing designers to examine the choices they make in new projects, instead of “because that’s how we’ve always done it”. Say, allowing players to choose their player gender, or whether or not it is actually narratively consistent for a female character to be barely clothed.
+This theory is highly pertinent when it comes to changing the attitudes of
+the most resistant group to improving the industry, the consumers themselves.
+Most of them, again being white and male, have enjoyed privileges they have
+little awareness of, and are afraid that something they love is going to be
+taken away or destroyed. In order to get this demographic to consider the
+many criticisms lobbed their way, they must first be motivated to do so, or
+the reflexive antagonism will simply continue. Many feel attacked for enjoying
+games that are being labeled as sexist, or white-washed. Even if an argument
+is specific in labeling a particular component of a game as being sexist,
+it can be difficult for someone who has attachment to the material to separate
+that criticism from the piece as a whole. One partially successful form of
+motivation I have witnessed is exposing the gamer demographic to highly
+polished game experiences that break the mold of what they normally expect.
+By engaging these groups through new works that push or break the boundaries
+they have come to expect, they may over time come to desire more unique
+perspectives.
 
 ## Key People
 {% for person in page.key_people %}

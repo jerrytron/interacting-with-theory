@@ -23,10 +23,27 @@ citations:
 ---
 
 ![contagion theory]({{ site.baseurl }}/assets/images/contagion-theory.jpg){: .align-right}
-Contact is provided by communication networks in contagion theories. These communication networks serve as a mechanism that exposes people, groups, and organizations to information, attitudinal messages and the behaviors of others.
+Contagion theory is an attempt to explain how within networks of people or
+organizations you not only find common attitudes and behaviors, but also
+observe a spread of those same attitudes and behaviors. The more concentrated
+the people, and stronger the existing state of thinking, the more "infectious"
+and easily spread their beliefs and assumptions are to neighboring connections
+in their network of communication.
 
 ## Game Industry Inequality
-The industry (and many tech industries) began with more white males, the old guard doesn’t want change, new professionals are heavily exposed and begin to share the attitudes of their superiors (and coworkers) through prolonged exposure.
+The game industry, as with many tech based industries, was built populated by a
+majority of educated, white male workers. Early attitudes about woman being less
+capable or intelligent was kept alive as there was little motivation to change.
+As such, even with new blood entering the industry, their superiors are often of
+the _old guard_, or the protégés of them. Being in close contact with people
+that all look and come from similar backgrounds as yourself is already enough
+to strongly display the effect of contagion theory. When those with authority
+over you also maintain these attitudes, in can be almost impossible to not start
+to believe their perspective given enough time. The ill researches facts about
+women, or the lack of good candidates, you might find yourself parroting despite
+having never received the information from a reliable source. When you are asked
+to hire someone new, they are likely to be similar to you, and as they integrate
+into your team, start adopting those same views.
 
 ## Key People
 {% for person in page.key_people %}
